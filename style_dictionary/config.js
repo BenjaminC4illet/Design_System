@@ -5,7 +5,7 @@ module.exports={
       "css": {
         "transformGroup": "css",
         // "prefix": "sd",
-        "buildPath": "build/css/",
+        "buildPath": "style_dictionary/css/",
         "files": [
           {
             "destination": "_variables.css",
@@ -16,7 +16,7 @@ module.exports={
 
       "js": {
         "transformGroup": "js",
-        "buildPath": "build/js/",
+        "buildPath": "style_dictionary/js/",
         "files": [
           {
             "destination": "variables.js",
