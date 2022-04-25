@@ -1,14 +1,10 @@
 module.exports={
-    "source": ['tokens.json'],
-    // "tokens": {
-    //   "color": {
-    //     "primary": { value: '#fbbf24' },
-    //   },
-    // },
+    "source": ['./style_dictionary/tokens.json'],
+
     "platforms": {
       "css": {
         "transformGroup": "css",
-        "prefix": "sd",
+        // "prefix": "sd",
         "buildPath": "build/css/",
         "files": [
           {
