@@ -19,6 +19,9 @@ module.exports={
         "files": [{
           "destination": "colors.xml",
           "format": 'android/resources',
+          "filter": {
+            "attributes": { category: 'color' },
+          }
         }]
       },
       "js": {
