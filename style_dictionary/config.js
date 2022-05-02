@@ -8,8 +8,14 @@ module.exports={
         "buildPath": "style_dictionary/css/",
         "files": [
           {
-            "destination": "_variables.css",
-            "format": "css/variables"
+            "destination": "colors.css",
+            "format": "css/variables",
+            "filter": {
+              "attributes": { category: 'colors' },
+            },
+            "options": {
+              "outputReferences": true
+            }
           }
         ]
       },
@@ -20,7 +26,7 @@ module.exports={
           "destination": "colors.xml",
           "format": 'android/resources',
           "filter": {
-            "attributes": { category: 'color' },
+            "attributes": { category: 'colors' },
           }
         }]
       },
@@ -29,8 +35,14 @@ module.exports={
         "buildPath": "style_dictionary/js/",
         "files": [
           {
-            "destination": "variables.js",
-            "format": "javascript/es6"
+            "destination": "colors.js",
+            "format": "javascript/es6",
+            "filter": {
+            "attributes": { category: 'colors' },
+          },
+          "options": {
+            "outputReferences": true
+          }
           }
         ]
       },
