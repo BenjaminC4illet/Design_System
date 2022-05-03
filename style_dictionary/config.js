@@ -36,7 +36,7 @@ module.exports={
         "files": [
           {
             "destination": "colors.js",
-            "format": "javascript/es6",
+            "format": "javascript/module-flat",
             "filter": {
             "attributes": { category: 'colors' },
           },
