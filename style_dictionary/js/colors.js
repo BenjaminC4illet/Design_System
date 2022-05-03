@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 02 May 2022 15:21:46 GMT
+ * Generated on Tue, 03 May 2022 11:24:10 GMT
  */
 
 export const ColorsBlue000 = "#e6f7ff";
@@ -114,3 +114,11 @@ export const ColorsYellow600 = "#f4bb10";
 export const ColorsYellow700 = "#dfa304";
 export const ColorsYellow800 = "#aa7b00";
 export const ColorsYellow900 = "#7c5701";
+export const ColorsSuccessSurface = "#ebfff1";
+export const ColorsSuccessOnSurface = "#1a8335";
+export const ColorsWarningSurface = "#fff0e1";
+export const ColorsWarningOnSurface = "#ac6400";
+export const ColorsInfoSurface = "#e6f7ff";
+export const ColorsInfoOnSurface = "#0071b5";
+export const ColorsErrorSurface = "#fbe8e5";
+export const ColorsErrorOnSurface = "#a72f1f";

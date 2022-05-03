@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 02 May 2022 15:21:46 GMT
+// Generated on Tue, 03 May 2022 11:24:10 GMT
 
 
 import UIKit
@@ -31,6 +31,8 @@ internal struct StyleDictionaryStruct {
     internal static let colorsCyan700 = #0d8d93
     internal static let colorsCyan800 = #006570
     internal static let colorsCyan900 = #004249
+    internal static let colorsErrorOnSurface = #a72f1f
+    internal static let colorsErrorSurface = #fbe8e5
     internal static let colorsGrass000 = #f2ffd9
     internal static let colorsGrass100 = #e1fbae
     internal static let colorsGrass200 = #d0f684
@@ -60,6 +62,8 @@ internal struct StyleDictionaryStruct {
     internal static let colorsGrey700 = #3d474d
     internal static let colorsGrey800 = #333c40
     internal static let colorsGrey900 = #293033
+    internal static let colorsInfoOnSurface = #0071b5
+    internal static let colorsInfoSurface = #e6f7ff
     internal static let colorsNavy000 = #e2f2ff
     internal static let colorsNavy100 = #bfe0ff
     internal static let colorsNavy200 = #9cc9ff
@@ -110,6 +114,10 @@ internal struct StyleDictionaryStruct {
     internal static let colorsRed700 = #a72f1f
     internal static let colorsRed800 = #85271b
     internal static let colorsRed900 = #5c1f16
+    internal static let colorsSuccessOnSurface = #1a8335
+    internal static let colorsSuccessSurface = #ebfff1
+    internal static let colorsWarningOnSurface = #ac6400
+    internal static let colorsWarningSurface = #fff0e1
     internal static let colorsWhite = #ffffff
     internal static let colorsYellow000 = #fff8d7
     internal static let colorsYellow100 = #fff2b3

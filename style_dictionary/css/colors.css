@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 02 May 2022 15:21:46 GMT
+ * Generated on Tue, 03 May 2022 11:24:10 GMT
  */
 
 :root {
@@ -115,4 +115,12 @@
   --colors-blue-200: #81d8ff;
   --colors-blue-100: #b4e8ff;
   --colors-blue-000: #e6f7ff;
+  --colors-error-on-surface: var(--colors-red-700);
+  --colors-error-surface: var(--colors-red-000);
+  --colors-info-on-surface: var(--colors-blue-700);
+  --colors-info-surface: var(--colors-blue-000);
+  --colors-warning-on-surface: var(--colors-orange-700);
+  --colors-warning-surface: var(--colors-orange-000);
+  --colors-success-on-surface: var(--colors-green-700);
+  --colors-success-surface: var(--colors-green-000);
 }

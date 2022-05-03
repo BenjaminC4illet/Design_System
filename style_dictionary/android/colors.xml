@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Mon, 02 May 2022 15:21:46 GMT
+  Generated on Tue, 03 May 2022 11:24:10 GMT
 -->
 <resources>
   <string name="colors_blue_000">#e6f7ff</string>
@@ -116,5 +116,13 @@
   <string name="colors_yellow_700">#dfa304</string>
   <string name="colors_yellow_800">#aa7b00</string>
   <string name="colors_yellow_900">#7c5701</string>
+  <string name="colors_success_surface">#ebfff1</string>
+  <string name="colors_success_on_surface">#1a8335</string>
+  <string name="colors_warning_surface">#fff0e1</string>
+  <string name="colors_warning_on_surface">#ac6400</string>
+  <string name="colors_info_surface">#e6f7ff</string>
+  <string name="colors_info_on_surface">#0071b5</string>
+  <string name="colors_error_surface">#fbe8e5</string>
+  <string name="colors_error_on_surface">#a72f1f</string>
   
 </resources>

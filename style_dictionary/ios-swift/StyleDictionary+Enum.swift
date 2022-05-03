@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 02 May 2022 15:21:46 GMT
+// Generated on Tue, 03 May 2022 11:24:10 GMT
 
 
 import UIKit
@@ -31,6 +31,8 @@ public enum StyleDictionaryEnum {
     public static let colorsCyan700 = #0d8d93
     public static let colorsCyan800 = #006570
     public static let colorsCyan900 = #004249
+    public static let colorsErrorOnSurface = #a72f1f
+    public static let colorsErrorSurface = #fbe8e5
     public static let colorsGrass000 = #f2ffd9
     public static let colorsGrass100 = #e1fbae
     public static let colorsGrass200 = #d0f684
@@ -60,6 +62,8 @@ public enum StyleDictionaryEnum {
     public static let colorsGrey700 = #3d474d
     public static let colorsGrey800 = #333c40
     public static let colorsGrey900 = #293033
+    public static let colorsInfoOnSurface = #0071b5
+    public static let colorsInfoSurface = #e6f7ff
     public static let colorsNavy000 = #e2f2ff
     public static let colorsNavy100 = #bfe0ff
     public static let colorsNavy200 = #9cc9ff
@@ -110,6 +114,10 @@ public enum StyleDictionaryEnum {
     public static let colorsRed700 = #a72f1f
     public static let colorsRed800 = #85271b
     public static let colorsRed900 = #5c1f16
+    public static let colorsSuccessOnSurface = #1a8335
+    public static let colorsSuccessSurface = #ebfff1
+    public static let colorsWarningOnSurface = #ac6400
+    public static let colorsWarningSurface = #fff0e1
     public static let colorsWhite = #ffffff
     public static let colorsYellow000 = #fff8d7
     public static let colorsYellow100 = #fff2b3
